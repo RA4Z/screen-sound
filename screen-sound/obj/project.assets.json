@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robertn\\source\\repos\\screen-sound\\screen-sound\\screen-sound.csproj",
+      "projectUniqueName": "C:\\Users\\robertn\\Documents\\Vários\\Projeto\\CSharp\\screen-sound\\screen-sound\\screen-sound.csproj",
       "projectName": "screen-sound",
-      "projectPath": "C:\\Users\\robertn\\source\\repos\\screen-sound\\screen-sound\\screen-sound.csproj",
+      "projectPath": "C:\\Users\\robertn\\Documents\\Vários\\Projeto\\CSharp\\screen-sound\\screen-sound\\screen-sound.csproj",
       "packagesPath": "C:\\Users\\robertn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robertn\\source\\repos\\screen-sound\\screen-sound\\obj\\",
+      "outputPath": "C:\\Users\\robertn\\Documents\\Vários\\Projeto\\CSharp\\screen-sound\\screen-sound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robertn\\AppData\\Roaming\\NuGet\\NuGet.Config",
