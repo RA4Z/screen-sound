@@ -1,6 +1,10 @@
 ﻿// Screen Sound
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-List<string> listaDasBandas = new List<string> { "AC/DC", "Metallica", "Bon Jovi", "Black Sabath" };
+//List<string> listaDasBandas = new List<string> { "AC/DC", "Metallica", "Bon Jovi", "Black Sabath" };
+
+Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
+
+
 ExibirOpcoesDoMenu();
 
 void ExibirLogo()
